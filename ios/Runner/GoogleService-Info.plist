@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>586394775148-i5en854lc3qdfjgi84n64r5j95n04h9e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.586394775148-i5en854lc3qdfjgi84n64r5j95n04h9e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>586394775148-s1l5p6vjr1820c1g3ionnc1gtd10bv3u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhwcpNAT-aRZEVg53qdAloWfz8meeUOkQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>586394775148</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gradtionProject</string>
+	<key>PROJECT_ID</key>
+	<string>graduation-project-11d5e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>graduation-project-11d5e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:586394775148:ios:3a4172a86dad14df3eb249</string>
+	<key>DATABASE_URL</key>
+	<string>https://graduation-project-11d5e-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

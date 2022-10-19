@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shtably-graditionproject-jeai",
+  "private_key_id": "143a375c58fd6bdafe2996039a951c7c9e38bb20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9T1m4ZnLbMnZT\n3ukMG97hjMtQ7V1m/WCWw4Ijbj6lH2cCKhvSmI7gMbM+uB00PmzT0Jxyd4F4zzcI\nOib0G61BSPtDAO3L/7Nezukzf1RxH9EV+NcnglM5wzd9PdFOmQReYFusMtfD8a7r\naYVNlkif076WT2+xQfAUjILet+CulUymcXSTdTDsYCbYmDUI6F50lCdA3j6tu6hN\nIEIGheYHPWv1dvng3U4E4/3unYoAMh58tD2QADoURGlXC/2/9vnQCSHg/YRpi6qr\nYrPXQYG+BXn1vQxoxHY/tf+6AB5om4JBr1GOZ2/zml3ICgmmY4w+Kg7jOXYS5jFj\nd8ktmjN3AgMBAAECggEAHwOO8/zPYvBuHj4Yo+6KTHKfzyRJTFlvp4NkIKCBDCrh\nhKNCvPUCreFhN4HmQZbbMWBYdmWfBRxoLFA1QtdTQld4gnj2fEM/LuXATWWA1KpH\nu3fG7SbBXRHfAgT3SLnHfhv/KMOI7Fr93dIDEBDyLkJRqO0JTrA6FW5nn6E0N/re\nu6+u7mxFoFVKIAr6cCqwTFIf4q6QweFZl/UbFWl3F4FlxJdDQzTuWh0K4MtKStaV\nlMq3i01QNFL+dL0MkwAfjLkcIN7bZcCIIlHWPYf9uUyf2cyubOBOY+5rY0QxbvHc\niRczLJFuSOzjDXQOJQ0P1oVr9cvR2UJ0UtVSQVhPkQKBgQDpTGYKyUXgEy96hjQ7\nqbK+N5vKrHd8D7ENHOUthLg2fr8xAQH5r+KBeBVeVuRuirEwjr+ANHxBM7va+O8N\n1RjOdTDE96pGVZenGjEO9lN1/Bxe9nlV1tm6kiCrrNfAPYy80BYeIT9xyX0YZQop\nhkY777sy/bwoUh1fuyHdJlFUrQKBgQDPuyxVmYf/JWNagbu9FYWiO5vkOunx3VXi\ng1EWMg7AJx7PV2YkS416oWwgQZijZVUsqzPy5Mk9zzXZIaRKF61THyAQX8nBG4Fc\nb37qX60xgr+rdoBRa59nsgvtJnUszQUONRcCSE++VbhVfzAc0hHY/MdWuaN2OsK9\nqXDe+mVJMwKBgQDMa94J23z3r7ftg0SndrWhSTaga2iy80jvNX922BFV5s9+j+R8\nNWqiiWcn57l3Rt2lr58LJnIt67fSUkeddjirRzJ5lI3F3V/p0uBjvOE6w7LUXuHI\nnl7fxQUNiIDv+L6l/ysyMW3XNXcAdiBmbDqEcDY2ovBI4FLOvDka/2VKbQKBgFVY\nw3hP4g40IEPZNXcUVpk3AG+evOuAUn8EENabrm/IIuJxOCgFWpVdqPz/tmS7h2kY\n1fkfgocAkVEqf0Npwu55xUS09kF+uYFu1agZsyC6ZWFfCI1rOEz0W+4NdOr5OPCD\nY3aumwTKVzfZT70nmemawZOiJcS3k7c03IjgO6j9AoGAPs0+elUcNsWg7PNIkgIk\n7esr7F3xBKRv3odEj0Hykw0Dsrm6O8wNSUpOIN+UzyoXwRT7e14CKScgL7VJNMtF\nqwl8ET2jtRKWu8Dlzfzj4lex3RPEL5QMWHmnW0Qi8/hS35OkqEFsSe9mYK2wP0PB\ndm7ifHjpU1Tgf2DZ/PTxJjU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shtaply-dialogflow@shtably-graditionproject-jeai.iam.gserviceaccount.com",
+  "client_id": "104259903826750710483",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shtaply-dialogflow%40shtably-graditionproject-jeai.iam.gserviceaccount.com"
+}
