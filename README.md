@@ -52,13 +52,6 @@ Develop a scalable and secure backend system along with an efficient database st
 - Develop user authentication and authorization mechanisms to ensure secure access to the application and website features.
 - Implement business logic for core functionalities such as user management, content creation, and interaction features.
 
-
-## Demo
-
-![UI/UX](https://www-ccv.adobe.io/v1/player/ccv/WVvMk_3sKbH/embed?api_key=behance1&bgcolor=%23191919)
-
-
-
 ## Tech Stack
 
 - **Frontend Framework**: React.js.
