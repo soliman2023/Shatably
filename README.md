@@ -73,14 +73,6 @@ Develop a scalable and secure backend system along with an efficient database st
 - Comprehensive testing suite covering unit tests and integration tests.
 - Deployment scripts and instructions for production deployment.
 
-
-## Project Team:
-
-- Project Manager: Mostafa Soliman
-- Lead Developer: Mostafa Soliman
-- Database Administrator: anton osama
-- Quality Assurance Engineer: mina risq
-
 ## Project Status:
 
 This project is currently in active development. Check the project repository for updates and milestones.
